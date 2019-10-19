@@ -1,0 +1,89 @@
+/* 
+1. Tags overridden CSS
+2. CSS Classes
+*/
+
+/*1. Tags overridden CSS */
+
+li {
+  list-style-type: none;
+}
+
+a{
+	color:grey;
+}
+
+
+table: {
+
+border-collapse:collapse;
+}
+
+
+th {
+  background-color:grey;
+  text-align: left;
+  padding-left: 10px;
+  border: 1px solid black;
+}
+
+tr{
+	height: 50px;
+	width:80px;
+	border: 1px solid black;
+	
+}
+
+td {	
+	width:150px;
+	height: 100px;
+	border: 1px solid black;
+}
+
+
+/*2. CSS Classes*/
+
+.nav{
+	padding: 10px;
+	background-color: rgba(200,200,200,40);
+	font-size: 20px;
+	border: solid 1px;
+}
+
+
+.sidenav {
+
+  position: absolute;
+  left: 10px;
+  top:80px;
+  border: 3px solid black;
+  font-size: 20px;
+  padding: 20px;
+  height: 150px;
+  border-width: 2px;
+}
+
+.tableroot {
+  position: absolute;
+  left: 600px;
+  top:80px;
+  border: 2px solid black;
+
+
+}
+
+
+.ad1{
+position: absolute;
+left:500px;
+top:500px;
+border-style: solid;
+border-color: #black;
+padding: 8px;
+width: 500px;
+text-align: center;
+border-width: 2px;
+
+}
+
+

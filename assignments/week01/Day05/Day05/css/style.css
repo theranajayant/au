@@ -1,0 +1,82 @@
+/* Table of Styles
+
+1. Tags Custom CSS
+2. Class CSS
+3. ID CSS 
+
+
+*/
+
+
+
+
+/* Tags Starts*/
+
+body{
+margin-left: 10%;
+margin-right: 10%;
+}
+
+
+h1{
+		color:red;	
+	}
+
+.profile{
+border: 2px solid red;
+border-radius: 50%;
+}
+
+p{
+	color: red;
+}
+
+h2{
+	color: white;
+	background-color: grey;
+	padding: 10px;
+	border-color: red;
+	border-style: solid;
+
+}
+
+table, th, td {
+  border: 1px solid red;
+}
+
+
+
+
+/* 2. Classes Starts*/
+.list{
+	color: black;	
+}
+
+.footer{	
+	background-color: red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;	
+}
+
+.footerdiv{
+	color: white;	
+	
+}
+
+
+.rotate{
+color: rgb(20,20,20);
+ text-align: center;
+
+}
+
+
+/* 3. ID CSS Starts */
+
+#GPL{
+color: green;
+}
+
+
+
