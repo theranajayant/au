@@ -1,0 +1,129 @@
+.menu{
+    height: 100px;
+    width: 100%;
+    background-color:228fcf;
+}
+
+.menu a{
+    
+
+}
+
+.logo{
+    height: 150px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bordered{
+    margin-top: 30px;
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+div>h2{
+    padding-left:50px ;
+}
+
+.padded{
+    padding: 20px;
+}
+
+
+.formpadded{
+padding: 10px;
+font-size: 15px;
+}
+
+
+/*General Element*/
+.button{
+    background-color:#228fcf;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color:white;
+    font-size: 15px;
+}
+
+
+input:focus {
+    background-color: #2290cf1c;
+    color: #228fcf;
+  }
+
+div>span{
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 10px;
+    }
+
+
+.odc1{
+padding: 5px;
+border: 1px solid #00000036;
+}
+
+.li1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:18px;
+    padding-right:18px;
+}
+
+
+button{
+    background-color:228fcf;
+    color:white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+/*Footer CSS*/
+
+.footer{
+    margin-top:5px;
+    width: 100%;
+    height: 200px;
+    background-color: 228fcf;
+}
+
+.madein{
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 100px;
+}
+
+.author{
+    color: rgba(255, 255, 255, 0.096);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.chat{
+    top:90%;
+    left:90%;
+}
+
+.chatprofile{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: 4px solid white;
+    border: 4px solid #228fcf;
+    
+    position: fixed;
+    top:80%;
+    right:90%;
+
+}
